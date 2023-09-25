@@ -44,6 +44,7 @@
 </blockquote>
 
 ### Запуск локально
+Переименовать .env.example в .env
 ```
 pip install poetry
 poetry install
